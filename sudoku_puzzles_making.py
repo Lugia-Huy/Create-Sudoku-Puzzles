@@ -1,7 +1,7 @@
 import sys
 import random
 import itertools
-random.seed(5180020)
+random.seed(5180020) #random number
 
 #####~~~~~~~~~~~~~~~~~~~~#####
 ##########################################Function part
